@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="734a5714-2304-4999-8517-4c0f1927a8a6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eSEXqQAvHjt7sgxbMIGXNxEBnS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.InfinitePoem">
+    <configuration name="InfinitePoem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythontest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\ratzh\PycharmProjects\test\InfinitePoem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="M4A to wav converter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythontest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M4A to wav converter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pydub-test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythontest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pydub-test" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythontest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.InfinitePoem" />
+        <item itemvalue="Python.M4A to wav converter" />
+        <item itemvalue="Python.pydub-test" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="734a5714-2304-4999-8517-4c0f1927a8a6" name="Default Changelist" comment="" />
+      <created>1594306635524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594306635524</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="735" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594674989400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="735" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1594674989400" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596122106047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1596122106047" />
+    <state width="1899" height="305" key="GridCell.Tab.0.bottom" timestamp="1596105761460">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1659" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1680.22.1680.1010@-1680.22.1680.1010" timestamp="1594326335992" />
+    <state width="1899" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1596105761460" />
+    <state width="1899" height="305" key="GridCell.Tab.0.center" timestamp="1596105761460">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1659" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1680.22.1680.1010@-1680.22.1680.1010" timestamp="1594326335992" />
+    <state width="1899" height="305" key="GridCell.Tab.0.center/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1596105761460" />
+    <state width="1899" height="305" key="GridCell.Tab.0.left" timestamp="1596105761460">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1659" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1680.22.1680.1010@-1680.22.1680.1010" timestamp="1594326335992" />
+    <state width="1899" height="305" key="GridCell.Tab.0.left/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1596105761460" />
+    <state width="1899" height="305" key="GridCell.Tab.0.right" timestamp="1596105761460">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1659" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1680.22.1680.1010@-1680.22.1680.1010" timestamp="1594326335992" />
+    <state width="1899" height="305" key="GridCell.Tab.0.right/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1596105761460" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1595977282741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1595977282741" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1595977282741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1595977282741" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1595977282741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1595977282741" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1595977282741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1595977282741" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1595974660143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1595974660143" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1594308914226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1594308914226" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594331760645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1594331760645" />
+  </component>
+</project>
