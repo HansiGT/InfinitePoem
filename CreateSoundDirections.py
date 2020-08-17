@@ -3,7 +3,7 @@ import argparse
 
 from pydub import AudioSegment
 
-for (dirpath, dirnames, filenames) in os.walk("tracks/"):
+for (dirpath, dirnames, filenames) in os.walk("tracks/secondStereo2/"):
     for filename in filenames:
         filepath = dirpath + '/' + filename
         try:
