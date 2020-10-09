@@ -5,7 +5,7 @@ from pydub import AudioSegment
 
 formats_to_convert = ['.m4a']
 
-for (dirpath, dirnames, filenames) in os.walk("tracks2 (uncut)/"):
+for (dirpath, dirnames, filenames) in os.walk("tracks (uncut)2/"):
     for filename in filenames:
         if filename.endswith(tuple(formats_to_convert)):
 
