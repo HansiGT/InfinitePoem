@@ -3,167 +3,32 @@
   <component name="ChangeListManager">
     <list default="true" id="734a5714-2304-4999-8517-4c0f1927a8a6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Aus 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Aus 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Aus 3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Aus mir 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Aus mir 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Aus mir 3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Aus mir heraus 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Bin ich 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Bin ich 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Der aus 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Der aus 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Der aus 3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Die Maschine 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Die Maschine 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ein Mensch der aus Maschinen ist 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ein Mensch der aus Maschinen ist 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ein Mensch der aus Maschinen ist 3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Eine Linie 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Eine Linie 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Eine Maschine 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Eine Maschine die ist 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Eine Maschine die ist 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Eine Schiene 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Eine Schiene. Eine Maschine 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Gegen 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Gegen 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Gegen eine 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Gegen meine eigene Maschine 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Gegen mich 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Gegen mich 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Heraus 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich bin 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich bin 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich bin Mensch der gegen seine Maschine kämpft 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich bin eine 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich bin eine Maschine 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich bin eine Maschine 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich bin eine Maschine 3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich bin meine Maschine 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich bin meine Maschine 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich bin mir 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich bin mir 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich bin mir 3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich bin mir 4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich bin mir meine Maschine 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich bin mir meine Maschine 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich bin mir meine Maschine 3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich bin mir meine Maschine 4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich bin mir meine Maschine 5 (1).wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich bin mir meine Maschine 5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich im Kampf gegen meine eigene Maschine 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ich5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Isst die Maschine den Mensch 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ist 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ist 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ist der Mensch die Maschine 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ist der Mensch eine Maschine 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ist eine Maschine 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ist eine Maschine eine Maschine 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ist eine Maschine meine Maschine 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Ist meine Maschine meine Maschine 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Linie 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Linie 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Linie ¹².wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Linie. Schiene. Maschine. Mensch. 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Linienmensch 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Linienschiene 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Linienschiene 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Maschine 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Maschine 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Maschine die gegen den Menschen kämpft 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Maschine die gegen mich kämpft 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Maschinenmensch 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Maschinenmensch 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Maschinenmensch 3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Meine Linie 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Meine Linie 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Meine Linie 3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Meine Maschine 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Meine Maschine 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Meine Maschine 3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Meine Maschine 4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Meine Maschine ⁵.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Meine Schiene 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Meine Schiene 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Meine Schiene 3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Meine eigene Maschine 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Meine eine Maschine 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Meine eine Maschine 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Meine eine Maschine 3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Mensch 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Mensch 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Mensch 3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Mensch der gegen Maschinen kämpft 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Mensch der gegen Menschen kämpft 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Menschen der aus Maschinen ist 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Menschenlinie 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Mir 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Mir 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Nur eine Maschine 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Oder nur ein Maschinenmensch 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Oder nur eine Maschine 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Oder nur eine Menschenmaschine 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Schiene 1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent/Schiene 2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/first/123IchBInMirMeineMaschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/first/123IchBin.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/first/12BinIch.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/first/12BinIchOderNurEineMaschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/first/12EineMaschineAusSchienenIst.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/first/12IchBinEineMaschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/first/12IchBinNurEineMaschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/first/12Ichbin.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/first/12IchbinmeineMaschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/first/BinIch.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/first/EineMaschineAusSchienenIst.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/first/IchBin.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/first/IchBinEineMaschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/first/IchBinMeineMaschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/first/IchBinMirMeineMaschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/first/IsstDieMaschineDieSchiene.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/first/IsstDieSchieneDieMaschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/first/IstEineMaschineEineMaschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/123MeineMaschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/12Aus.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/12AusMirHeraus.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/12EineMaschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/12Heraus.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/12Ich.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/12Maschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/12MaschinenMensch.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/12Meine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/12MeineEigeneMaschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/12MeineEineMaschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/12MeineMaschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/12Mir.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/12MirMeineMaschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/12NurEineMaschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/12OderNur.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/12SchieneDieEineMaschineIst.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/Aus.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/AusMir.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/EineMaschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/EineSchiene.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/EineSchienedieMaschineIst.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/Heraus.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/Maschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/Maschinenmensch.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/MeineEigeneMaschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/MeineEineMaschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/MeineMaschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/MeineSchiene.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/Mir.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/NurEineMaschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/OderNurEineMaschine.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/Schiene.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/second/SchieneDieEineMaschineIst.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InfinitePoem.exe" beforeDir="false" afterPath="$PROJECT_DIR$/InfinitePoem.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InfinitePoem.py" beforeDir="false" afterPath="$PROJECT_DIR$/InfinitePoem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InfinitePoem.spec" beforeDir="false" afterPath="$PROJECT_DIR$/InfinitePoem.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InfinitePoemDifferentDirections.exe" beforeDir="false" afterPath="$PROJECT_DIR$/InfinitePoemDifferentDirections.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InfinitePoemDifferentDirections.py" beforeDir="false" afterPath="$PROJECT_DIR$/InfinitePoemDifferentDirections.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InfinitePoemDifferentDirections.spec" beforeDir="false" afterPath="$PROJECT_DIR$/InfinitePoemDifferentDirections.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/InfinitePoem/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoem/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/InfinitePoem/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoem/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/InfinitePoem/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoem/PKG-00.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/InfinitePoem/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoem/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/InfinitePoem/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoem/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/InfinitePoem/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoem/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/InfinitePoem/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoem/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/InfinitePoem/warn-InfinitePoem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoem/warn-InfinitePoem.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/InfinitePoem/xref-InfinitePoem.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoem/xref-InfinitePoem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/InfinitePoemDifferentDirections/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoemDifferentDirections/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/InfinitePoemDifferentDirections/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoemDifferentDirections/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/InfinitePoemDifferentDirections/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoemDifferentDirections/PKG-00.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/InfinitePoemDifferentDirections/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoemDifferentDirections/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/InfinitePoemDifferentDirections/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoemDifferentDirections/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/InfinitePoemDifferentDirections/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoemDifferentDirections/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/InfinitePoemDifferentDirections/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoemDifferentDirections/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/InfinitePoemDifferentDirections/warn-InfinitePoemDifferentDirections.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoemDifferentDirections/warn-InfinitePoemDifferentDirections.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/InfinitePoemDifferentDirections/xref-InfinitePoemDifferentDirections.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoemDifferentDirections/xref-InfinitePoemDifferentDirections.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/InfinitePoem.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/InfinitePoemDifferentDirections.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,27 +58,6 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.InfinitePoem">
-    <configuration name="CreateSoundDirections" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythontest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CreateSoundDirections.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="InfinitePoem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythontest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -227,6 +71,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\ratzh\PycharmProjects\test\InfinitePoem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="InfinitePoemDifferentDirections" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythontest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InfinitePoemDifferentDirections.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,10 +166,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.InfinitePoem" />
+        <item itemvalue="Python.InfinitePoemDifferentDirections" />
         <item itemvalue="Python.TrimSilence" />
         <item itemvalue="Python.trimtest" />
         <item itemvalue="Python.M4A to wav converter" />
-        <item itemvalue="Python.CreateSoundDirections" />
       </list>
     </recent_temporary>
   </component>
@@ -322,34 +187,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="735" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594674989400">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="735" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1594674989400" />
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596122106047">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1596122106047" />
-    <state width="1899" height="264" key="GridCell.Tab.0.bottom" timestamp="1602637316333">
+    <state width="1899" height="264" key="GridCell.Tab.0.bottom" timestamp="1603939183845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1659" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1680.22.1680.1010@-1680.22.1680.1010" timestamp="1594326335992" />
-    <state width="1899" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1602637316333" />
-    <state width="1899" height="264" key="GridCell.Tab.0.center" timestamp="1602637316332">
+    <state width="1899" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1603939183845" />
+    <state width="1899" height="264" key="GridCell.Tab.0.center" timestamp="1603939183845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1659" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1680.22.1680.1010@-1680.22.1680.1010" timestamp="1594326335992" />
-    <state width="1899" height="264" key="GridCell.Tab.0.center/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1602637316332" />
-    <state width="1899" height="264" key="GridCell.Tab.0.left" timestamp="1602637316332">
+    <state width="1899" height="264" key="GridCell.Tab.0.center/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1603939183845" />
+    <state width="1899" height="264" key="GridCell.Tab.0.left" timestamp="1603939183845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1659" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1680.22.1680.1010@-1680.22.1680.1010" timestamp="1594326335992" />
-    <state width="1899" height="264" key="GridCell.Tab.0.left/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1602637316332" />
-    <state width="1899" height="264" key="GridCell.Tab.0.right" timestamp="1602637316333">
+    <state width="1899" height="264" key="GridCell.Tab.0.left/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1603939183845" />
+    <state width="1899" height="264" key="GridCell.Tab.0.right" timestamp="1603939183845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1659" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1680.22.1680.1010@-1680.22.1680.1010" timestamp="1594326335992" />
-    <state width="1899" height="264" key="GridCell.Tab.0.right/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1602637316333" />
+    <state width="1899" height="264" key="GridCell.Tab.0.right/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1603939183845" />
     <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1595977282741">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -370,13 +227,5 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1595974660143" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1594308914226">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1594308914226" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594331760645">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1680.22.1680.1010@0.0.1920.1040" timestamp="1594331760645" />
   </component>
 </project>
