@@ -39,7 +39,7 @@ while True:
 
     play(0, first[i])
     pygame.time.wait(int(round(first[i].get_length(), 3) * 1000) + 300)
-    if True:
+    if m == 0:
         pygame.time.wait(500)
         for a in range(0, randint(1, 3)):
             play(0, first[i])

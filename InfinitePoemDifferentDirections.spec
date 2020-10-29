@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['InfinitePoemDifferentDirections.py'],
-             pathex=['C:\\Users\\ratzh\\PycharmProjects\\test'],
+             pathex=['C:\\Users\\ratzh\\OneDrive\\Dokumente\\Python-Projects\\test\\InfinitePoem'],
              binaries=[],
              datas=[],
              hiddenimports=[],
