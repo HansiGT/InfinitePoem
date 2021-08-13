@@ -54,16 +54,25 @@ for (dirpath, dirnames, filenames) in os.walk("tracks/second/", topdown=False):
 class Player:
     letterCount = 0
 
-    def playAndPrint(self, channel, track, text):
+    def playAndPrint(self, channel, track, text, reset):
         pygame.mixer.Channel(channel).play(track, loops=0)
 
-        if self.letterCount + len(text) <= 72:
+        if reset:
+            self.letterCount = 0
+
+        if self.letterCount == 0:
+            self.letterCount += len(text)
+            printer(bytes(text, "utf-8"))
+            print(text)
+        if self.letterCount + len(text) <= 60:
             self.letterCount += len(text)
             printer(bytes(" " + text, "utf-8"))
+            print(" " + text)
         else:
             self.letterCount = len(text)
-            printer(bytes(" " + os.linesep + text, "utf-8"))
-        print(self.letterCount)
+            printer(bytes(os.linesep + os.linesep + text, "utf-8"))
+            print(os.linesep + os.linesep + text)
+        #print(self.letterCount)
 
 
 printer(bytes(" ", "utf8"))
@@ -78,41 +87,36 @@ while True:
 
     o = randint(0, len(first[i]) - 1)
 
-    p.playAndPrint(0, first[i][o], first_text[i])
-    print(first_text[i])
+    p.playAndPrint(0, first[i][o], first_text[i], False)
     pygame.time.wait(int(round(first[i][o].get_length(), 3) * 1000) + 300)
     if m == 0:
         pygame.time.wait(500)
         for a in range(0, randint(1, 3)):
-            p.playAndPrint(0, first[i][o], ", " + first_text[i])
-            print(", " + first_text[i])
+            p.playAndPrint(0, first[i][o], os.linesep + os.linesep + first_text[i], True)
             pygame.time.wait(int(round(first[i][o].get_length(), 3) * 1000) + 300)
     o = randint(0, len(second[j]) - 1)
-    p.playAndPrint(0, second[j][o], " " + second_text[j])
-    print(" " + second_text[j])
+    p.playAndPrint(0, second[j][o], second_text[j], False)
     pygame.time.wait(int(round(second[j][o].get_length(), 3) * 1000) + 300)
     if n == 0:
         pygame.time.wait(750)
         for a in range(0, randint(1, 3)):
-            p.playAndPrint(0, second[j][o], ", " + second_text[j])
-            print(", " + second_text[j])
+            p.playAndPrint(0, second[j][o], os.linesep + os.linesep + second_text[j], True)
             pygame.time.wait(int(round(second[j][o].get_length(), 3) * 1000) + 300)
 
     while k > 0:
         j = randint(0, len(second) - 1)
         o = randint(0, len(second[j]) - 1)
-        p.playAndPrint(0, second[j][o], " " + second_text[j])
-        print(" " + second_text[j])
+        p.playAndPrint(0, second[j][o], second_text[j], False)
         pygame.time.wait(int(round(second[j][o].get_length(), 3) * 1000) + 300)
         k = randint(0, 2)
         if l == 0:
             for a in range(0, randint(1, 6)):
-                p.playAndPrint(0, second[j][o], ", " + second_text[j])
-                print(", " + second_text[j])
+                p.playAndPrint(0, second[j][o], os.linesep + os.linesep + second_text[j], True)
                 pygame.time.wait(int(round(second[j][o].get_length(), 3) * 1000) + 300)
         l = randint(0, 19)
 
+    printer(bytes(os.linesep + os.linesep, "utf-8"))
+    print(os.linesep + os.linesep)
     p.letterCount = 0
-    print(p.letterCount)
-    printer(bytes(" " + os.linesep + os.linesep, "utf-8"))
+    # print(p.letterCount)
     pygame.time.wait(1000)
