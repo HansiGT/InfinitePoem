@@ -62,15 +62,15 @@ class Player:
 
         if self.letterCount == 0:
             self.letterCount += len(text)
-            printer(bytes(text, "utf-8"))
+            printer(bytes(" " + text, "utf-8"))
             print(text)
-        if self.letterCount + len(text) <= 60:
+        elif self.letterCount + len(text) <= 60:
             self.letterCount += len(text)
             printer(bytes(" " + text, "utf-8"))
             print(" " + text)
         else:
             self.letterCount = len(text)
-            printer(bytes(os.linesep + os.linesep + text, "utf-8"))
+            printer(bytes(" " + os.linesep + os.linesep + text, "utf-8"))
             print(os.linesep + os.linesep + text)
         #print(self.letterCount)
 
@@ -95,7 +95,7 @@ while True:
             p.playAndPrint(0, first[i][o], os.linesep + os.linesep + first_text[i], True)
             pygame.time.wait(int(round(first[i][o].get_length(), 3) * 1000) + 300)
     o = randint(0, len(second[j]) - 1)
-    p.playAndPrint(0, second[j][o], second_text[j], False)
+    p.playAndPrint(0, second[j][o], " " + second_text[j], False)
     pygame.time.wait(int(round(second[j][o].get_length(), 3) * 1000) + 300)
     if n == 0:
         pygame.time.wait(750)
@@ -106,7 +106,7 @@ while True:
     while k > 0:
         j = randint(0, len(second) - 1)
         o = randint(0, len(second[j]) - 1)
-        p.playAndPrint(0, second[j][o], second_text[j], False)
+        p.playAndPrint(0, second[j][o], " " + second_text[j], False)
         pygame.time.wait(int(round(second[j][o].get_length(), 3) * 1000) + 300)
         k = randint(0, 2)
         if l == 0:
@@ -115,7 +115,7 @@ while True:
                 pygame.time.wait(int(round(second[j][o].get_length(), 3) * 1000) + 300)
         l = randint(0, 19)
 
-    printer(bytes(os.linesep + os.linesep, "utf-8"))
+    printer(bytes(" " + os.linesep + os.linesep, "utf-8"))
     print(os.linesep + os.linesep)
     p.letterCount = 0
     # print(p.letterCount)

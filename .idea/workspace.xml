@@ -5,10 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InfinitePoem.exe" beforeDir="false" afterPath="$PROJECT_DIR$/InfinitePoem.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InfinitePoem.py" beforeDir="false" afterPath="$PROJECT_DIR$/InfinitePoem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InfinitePoem.spec" beforeDir="false" afterPath="$PROJECT_DIR$/InfinitePoem.spec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InfinitePoemNoPrint.exe" beforeDir="false" afterPath="$PROJECT_DIR$/InfinitePoemNoPrint.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InfinitePoemNoPrint.py" beforeDir="false" afterPath="$PROJECT_DIR$/InfinitePoemNoPrint.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InfinitePoemNoPrint.spec" beforeDir="false" afterPath="$PROJECT_DIR$/InfinitePoemNoPrint.spec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/InfinitePoem/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoem/Analysis-00.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/InfinitePoem/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoem/EXE-00.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/InfinitePoem/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoem/PKG-00.pkg" afterDir="false" />
@@ -17,16 +13,6 @@
       <change beforePath="$PROJECT_DIR$/build/InfinitePoem/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoem/PYZ-00.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/InfinitePoem/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoem/base_library.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/InfinitePoem/warn-InfinitePoem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoem/warn-InfinitePoem.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/InfinitePoem/xref-InfinitePoem.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoem/xref-InfinitePoem.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/InfinitePoemNoPrint/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoemNoPrint/Analysis-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/InfinitePoemNoPrint/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoemNoPrint/EXE-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/InfinitePoemNoPrint/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoemNoPrint/PKG-00.pkg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/InfinitePoemNoPrint/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoemNoPrint/PKG-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/InfinitePoemNoPrint/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoemNoPrint/PYZ-00.pyz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/InfinitePoemNoPrint/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoemNoPrint/PYZ-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/InfinitePoemNoPrint/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoemNoPrint/base_library.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/InfinitePoemNoPrint/warn-InfinitePoemNoPrint.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoemNoPrint/warn-InfinitePoemNoPrint.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/InfinitePoemNoPrint/xref-InfinitePoemNoPrint.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/InfinitePoemNoPrint/xref-InfinitePoemNoPrint.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
