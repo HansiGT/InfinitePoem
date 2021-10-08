@@ -57,6 +57,8 @@ class Player:
     def playAndPrint(self, channel, track, text, reset):
         pygame.mixer.Channel(channel).play(track, loops=0)
 
+
+
         if reset:
             self.letterCount = 0
 
@@ -69,6 +71,7 @@ class Player:
             printer(bytes(" " + text, "utf-8"))
             print(" " + text)
         else:
+            text = text.replace(' ', '', 1)
             self.letterCount = len(text)
             printer(bytes(" " + os.linesep + os.linesep + text, "utf-8"))
             print(os.linesep + os.linesep + text)
